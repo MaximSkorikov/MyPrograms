@@ -1,0 +1,9 @@
+life.c:10:6:init	3
+life.c:22:6:show	4
+life.c:38:5:norm	1
+life.c:43:5:count_of_neighbor	3
+life.c:61:5:cell_will_live	3
+life.c:75:5:cell_will_born	2
+life.c:88:5:cell_next_state	2
+life.c:100:6:fill_next_generation	3
+life.c:111:6:update_generation	3

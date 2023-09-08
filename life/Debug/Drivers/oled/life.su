@@ -1,0 +1,9 @@
+../Drivers/oled/life.c:10:6:init	16	static
+../Drivers/oled/life.c:22:6:show	24	static
+../Drivers/oled/life.c:38:5:norm	16	static
+../Drivers/oled/life.c:43:5:count_of_neighbor	40	static
+../Drivers/oled/life.c:61:5:cell_will_live	24	static
+../Drivers/oled/life.c:75:5:cell_will_born	24	static
+../Drivers/oled/life.c:88:5:cell_next_state	16	static
+../Drivers/oled/life.c:100:6:fill_next_generation	16	static
+../Drivers/oled/life.c:111:6:update_generation	16	static
