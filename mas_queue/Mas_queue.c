@@ -7,14 +7,14 @@ int count_element;
 int header;
 int tail;
 
-init()
+void init()
 {
     int header = 0;
     int tail = 0;
     int count_element = 0;
 }
 
-show()
+void show()
 {
     if(count_element == 0)
     {
@@ -33,7 +33,7 @@ show()
     }
 }
 
-put(value)
+void push(int)
 {
     if(count_element==SIZE)
     {
@@ -45,7 +45,7 @@ put(value)
     count_element++;
 }
 
-get()
+int pop()
 {
     int val = buf[tail];
     tail=(tail+1)%SIZE;
