@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1694091282 source:s:\personal\ashihmin\нужное для github\mas_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694091303 source:s:\personal\ashihmin\нужное для github\mas_queue\mas_queue.c
+	"mas_queue.h"
+
+1694091282 s:\personal\ashihmin\нужное для github\mas_queue\mas_queue.h
+
+1694091284 source:e:\Новая папка\нужное для github\mas_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694091304 source:e:\Новая папка\нужное для github\mas_queue\mas_queue.c
+	"mas_queue.h"
+
+1694091284 e:\Новая папка\нужное для github\mas_queue\mas_queue.h
+
