@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1683990916 source:s:\personal\skorikov\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1683989384 s:\personal\skorikov\queue\queue.h
+
+1683990856 source:s:\personal\skorikov\queue\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queue.h"
+
+1683990918 source:e:\Новая папка\нужное для github\queue_skorikov\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1683989386 e:\Новая папка\нужное для github\queue_skorikov\queue.h
+
+1683990858 source:e:\Новая папка\нужное для github\queue_skorikov\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queue.h"
+
