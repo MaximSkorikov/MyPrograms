@@ -3,5 +3,5 @@
 #endif // HEAD_H_INCLUDED
 void init(void);
 void show(void);
-void put(int x);
-int get(void);
+void push(int);
+int pop(void);
