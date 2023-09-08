@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1681573104 source:s:\personal\ashihmin\popup2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1681574353 source:s:\personal\ashihmin\popup2\som.c
+	"stack.h"
+	<stdlib.h>
+	<stdio.h>
+
+1681570496 s:\personal\ashihmin\popup2\stack.h
+
+1681563879 s:\personal\ashihmin\popup2\som.c
+	"stack.h"
+	<stdlib.h>
+	<stdio.h>
+
+1681574434 source:s:\personal\ashihmin\нужное для github\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1681570496 s:\personal\ashihmin\нужное для github\stack\stack.h
+
+1694092904 source:s:\personal\ashihmin\нужное для github\stack\som.c
+	"stack.h"
+	<stdlib.h>
+	<stdio.h>
+
