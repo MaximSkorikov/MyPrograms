@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684597784 source:s:\personal\skorikov\newsnail\newsnail.c
+	"newsnail.h"
+
+1684596885 s:\personal\skorikov\newsnail\newsnail.h
+
+1684596885 source:s:\personal\skorikov\newsnail\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684596886 source:e:\Новая папка\нужное для github\snail\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684597786 source:e:\Новая папка\нужное для github\snail\newsnail.c
+	"newsnail.h"
+
+1684596886 e:\Новая папка\нужное для github\snail\newsnail.h
+
